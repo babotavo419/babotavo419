@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=babotavo419" alt="babotavo419" /></a> </p>
 
-- 🔭 I’m currently working on **Completing**
+- 🔭 I’m currently working on **completing my codeing bootcamp @ BloomTech**
 
 - 🌱 I’m currently learning **React.js @ BloomTech**
 
