@@ -7,7 +7,7 @@
 
 - 🌱 I have experance with **React.js Next.js Node.js @ BloomTech**
 
-- 💬 Ask me about **React, CSS, and HTML**
+- 💬 Ask me about **JavaScript, CSS, and HTML**
 
 - 📫 How to reach me **tavowebdev419@gmail.com**
 
