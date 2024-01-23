@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babotavo419&label=Profile%20views&color=0e75b6&style=flat" alt="babotavo419" /> </p>
 
-- 🔭 I’m currently working on **completing my codeing bootcamp @ BloomTech**
+- 🔭 I graduated my codeing bootcamp @ BloomTech 11/22/2023**
 
-- 🌱 I’m currently learning **React.js @ BloomTech**
+- 🌱 I have experance with **React.js Next.js Node.js @ BloomTech**
 
 - 💬 Ask me about **React, CSS, and HTML**
 
-- 📫 How to reach me **octavio@chirhowebdev.com**
+- 📫 How to reach me **tavowebdev419@gmail.com**
 
 - ⚡ Fun fact **I love powerlifting**
 
